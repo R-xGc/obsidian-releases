@@ -36119,4 +36119,13 @@
     "description": "Copy any text to clipboard by clicking a Markdown link with clip: scheme. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kanade2511/clip-link-obsidian"
   }
+    {
+      "id": "scientific-translator",
+      "name": "Scientific Translator",
+      "author": "R-xGc",
+      "description": "右键选中翻译，附带音标和科研术语备注，支持任意 OpenAI 兼容
+  API。专为科研论文（深度学习/AI/CV/NLP）优化。",
+      "repo": "R-xGc/obsidian-scientific-translator",
+      "branch": "main"
+    }
 ]
